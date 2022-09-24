@@ -1,4 +1,22 @@
-Olá! Sou o Vinicius, sou um desenvolvedor WEB em ascenção!
+# Olá! Sou o Vinicius, sou um desenvolvedor WEB em ascenção!
+
+_Recentemente comecei o curso de Análise e Desenvolvimento de Sistema na instituição SENAI. Venha acompanhar meu progresso visualizando meu [repositório](https://github.com/VINICIUSNUNES137?tab=repositories) github._
+
+---
+
+**ESTOU APRENDENDO SOBRE:**
+
+- [x] HTML5
+- [x] CSS3
+- [x] JAVA (POO)
+- [ ] JAVA SCRIPT
+- [ ] BANCO DE DADOS
+- [ ] FRAMEWORKS
+- [ ] RESTFULL
+- [ ] API
+
+**_Observação:_** _Os itens não ticados serão apresentados no decorrer do curso e serão atualizados assim que obtiver tal competência._
+
 <div align="center">
   <a href="https://github.com/VINICIUSNUNES137">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VINICIUSNUNES137&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,8 +36,6 @@ Olá! Sou o Vinicius, sou um desenvolvedor WEB em ascenção!
   <a href="https://www.linkedin.com/in/vinicius-nunes-300552210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
 
 
- 
 </div>
