@@ -5,7 +5,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 
 ---
 
-- 🔭 I’m currently working on [Sandman](https://viniciusnunes137.github.io/one-page-2022/ds1m-b/viniciusNunes/) project
+- 🔭 I’m currently working on [Sandman](https://github.com/VINICIUSNUNES137/sandman) project
 
 - 🌱 I’m currently learning **OOP, AI 900, Responsiveness**
 
