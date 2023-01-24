@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20formando%20como%20um;%20Desenvolvedor%20FullStack;%20Fa%C3%A7o%20ADS%20no%20SENAI;Finalizo%20em%2012/23;&font=Anton&left=true&width=650&height=120&color=FFFFFF&vCenter=true&size=45%22" alt=""/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20ADS%20no%20SENAI;Finalizo%20em%2012/23;&font=Anton&left=true&width=650&height=120&color=FFFFFF&vCenter=true&size=45%22" alt=""/>
 
 _He recently started the Systems Analysis and Development course at SENAI. 
 Come follow my progress by viewing my github [repository](https://github.com/VINICIUSNUNES137?tab=repositories)._
@@ -7,7 +7,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 
 - 🔭 I’m currently working on [Sandman](https://github.com/VINICIUSNUNES137/sandman) project
 
-- 🌱 I’m currently learning **OOP, AI 900, Responsiveness**
+- 🌱 I’m currently learning **Database, Kotlin, JS**
 
 - 👨‍💻 All of my projects are available at [Portifólio](https://viniciusnunes137.github.io/portifolio/)
 
