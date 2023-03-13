@@ -21,7 +21,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 <p align="center">
 <h3>i know about:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,figma,java,azure,linux,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,java,azure,linux,git,github,postman&theme=dark" />
   </a>
 </p>
 
