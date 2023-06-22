@@ -28,7 +28,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 <p align="center">
 <h3>I'm learning about:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,react,tailwind&theme=dark" />
   </a>
 </p>
 <p align="center">
