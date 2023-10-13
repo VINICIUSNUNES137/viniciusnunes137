@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD1AE5&height=150&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20ADS%20no%20SENAI;Finalizo%20em%2012/23;&font=Anton&left=true&width=650&height=120&color=BD1AE5F5&vCenter=true&size=45%22" alt=""/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Fa%C3%A7o%20DS%20no%20SENAI;Finalizo%20em%2012/23;&font=Anton&left=true&width=650&height=120&color=BD1AE5F5&vCenter=true&size=45%22" alt=""/>
 
 
 _He recently started the Systems Analysis and Development course at SENAI. 
@@ -28,13 +28,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 <p align="center">
 <h3>I'm learning about:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,react,tailwind&theme=dark" />
-  </a>
-</p>
-<p align="center">
-<h3>I will learn about:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,express,prisma,js,ts,react,next,tailwind&theme=dark" />
   </a>
 </p>
 <p align="center">
