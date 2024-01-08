@@ -8,7 +8,7 @@ Come follow my progress by viewing my github [repository](https://github.com/VIN
 
 ---
 
-- 🔭 I’m currently working on [Sandman](https://github.com/VINICIUSNUNES137/sandman) project
+- 🔭 I’m currently working on [TCC](https://github.com/LIMPEAN) project
 
 - 🌱 I’m currently learning **Database, Kotlin, JS**
 
